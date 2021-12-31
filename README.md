@@ -13,3 +13,4 @@ Assets, Photography, Fonts, Textures, Renders, Project Files, all Public Domain
 ael-03.ael-pak.02 by Arte Et Labore is marked with CC0 1.0 Universal 
 
 ![Image](https://github.com/froyotam/ael-03.ael-pak.02/main/ael-pak_final.png)
+![Image](https://github.com/froyotam/ael-03.ael-pak.02/main/ael-pak02_info.png)
