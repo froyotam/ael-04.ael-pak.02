@@ -1,8 +1,6 @@
 # ael-03.ael-pak.02
  
-AEL-PAK.02: An「ael-lab」
-
-Release AEL-03
+AEL-PAK.02: An「ael-lab」Release AEL-03
 
 Public Domain resource pack, created by members of Arte Et Labore
 
